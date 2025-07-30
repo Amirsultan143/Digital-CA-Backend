@@ -31,6 +31,9 @@ A backend system for a Digital Chartered Accountant Platform, focused on digitiz
 - MVC Architecture
 
 ---
+## Project Flowchart
+
+![Digital CA Flowchart](./assets/ca-flowchart.png)
 
 ## Setup Instructions
 
